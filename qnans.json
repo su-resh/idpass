@@ -1,19 +1,49 @@
 {
   "quizzes": [
     {
+      "title": "Easy Quiz",
       "questions": [
         {
           "question": "What is 2 + 2?",
           "options": ["3", "4", "5", "6"],
           "correctIndex": 1
         },
-        
         {
           "question": "What is the capital of France?",
           "options": ["Paris", "London", "Berlin", "Rome"],
           "correctIndex": 0
         }
-      
+      ]
+    },
+    {
+      "title": "Medium Quiz",
+      "questions": [
+        {
+          "question": "What is the symbol for sodium?",
+          "options": ["Na", "So", "Sd", "Si"],
+          "correctIndex": 0
+        },
+        {
+          "question": "What is the square root of 16?",
+          "options": ["2", "4", "6", "8"],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "title": "Hard Quiz",
+      "questions": [
+        {
+          "question": "Which planet is known as the Red Planet?",
+          "options": ["Earth", "Mars", "Venus", "Jupiter"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What is the largest organ in the human body?",
+          "options": ["Liver", "Brain", "Heart", "Skin"],
+          "correctIndex": 3
+        }
+      ]
     }
   ]
 }
