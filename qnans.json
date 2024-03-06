@@ -1,159 +1,236 @@
 {
-  "quizzes": [
+  "Lesson 1: Choosing a Presentation Topic": [
     {
-      "title": "Presentation Skills Quiz",
-      "questions": [
-        {
-          "question": "The presenter acts as the .",
-          "options": ["a. delivery of the information", "b. medium of the information", "c. advocate of the information", "d. supporter of the information"],
-          "correctIndex": 0
-        },
-        {
-          "question": "The three major elements of the presentation do not include .",
-          "options": ["a. An audience", "b. Specific content", "c. A presenter", "d. Visual aids"],
-          "correctIndex": 2
-        },
-        {
-          "question": "Reading out a presentation is:",
-          "options": ["a. Not allowed", "b. Allowed", "c. Helpful", "d. Dull"],
-          "correctIndex": 1
-        },
-        {
-          "question": "In the beginning you should give firstly .",
-          "options": ["a. your introduction", "b. summary of a topic", "c. asking irrelevant questions", "d. further information"],
-          "correctIndex": 0
-        },
-        {
-          "question": "A good presenter should .",
-          "options": ["a. sequencing your idea", "b. manage the time", "c. clear all the confusion", "d. all of these"],
-          "correctIndex": 3
-        },
-        {
-          "question": "What do we use to create a simple design template for the presentation?",
-          "options": ["a. Slide master", "b. Outlook", "c. OneNote", "d. Drive"],
-          "correctIndex": 0
-        },
-        {
-          "question": "What should we use for effective presentation?",
-          "options": ["a. Limited words and key phrases", "b. Images", "c. Layouts", "d. Styles"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Which text is the best for the background in the presentation?",
-          "options": ["a. Light text on a dark background", "b. Dark text on light background", "c. Colorful font", "d. Black and white style"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Which thing maintains its impact and resolution when projected on a larger screen?",
-          "options": ["a. Image", "b. Layouts", "c. Styles", "d. Clip arts"],
-          "correctIndex": 0
-        },
-        {
-          "question": "What should be avoided in a presentation?",
-          "options": ["a. Multiple fonts", "b. Many styles", "c. Overcrowded slides", "d. All of these"],
-          "correctIndex": 3
-        },
-        {
-          "question": "Speaker notes are important for .",
-          "options": ["a. Remembering key points", "b. Looking professional", "c. Improving delivery", "d. All of the above"],
-          "correctIndex": 3
-        },
-        {
-          "question": "Speaker notes should contain .",
-          "options": ["a. Complete sentences", "b. Only key points", "c. Quotes from famous people", "d. Humor"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Speaker notes are especially useful for .",
-          "options": ["a. Adding extra information", "b. Reading word-for-word", "c. Making slides more colorful", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "How should speaker notes be formatted?",
-          "options": ["a. In a tiny font size", "b. As large paragraphs", "c. In bullet points or short sentences", "d. In italics"],
-          "correctIndex": 2
-        },
-        {
-          "question": "What is one way to practice using speaker notes?",
-          "options": ["a. Memorize them", "b. Read them out loud", "c. Print them on the slides", "d. None of the above"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Visual aids can help .",
-          "options": ["a. Keep the audience engaged", "b. Distract the audience", "c. Confuse the audience", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Which of the following is NOT an example of a visual aid?",
-          "options": ["a. PowerPoint slides", "b. Handouts", "c. Audio recordings", "d. Whiteboard drawings"],
-          "correctIndex": 2
-        },
-        {
-          "question": "Visual aids should be .",
-          "options": ["a. Complex and detailed", "b. Simple and clear", "c. Hidden from the audience", "d. None of the above"],
-          "correctIndex": 1
-        },
-        {
-          "question": "How many different types of visual aids are mentioned in the lesson?",
-          "options": ["a. Two", "b. Three", "c. Four", "d. Five"],
-          "correctIndex": 2
-        },
-        {
-          "question": "Visual aids can be used to .",
-          "options": ["a. Clarify complex information", "b. Add unnecessary details", "c. Confuse the audience", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Rehearsing a presentation can help with .",
-          "options": ["a. Reducing nervousness", "b. Improving timing", "c. Identifying problem areas", "d. All of the above"],
-          "correctIndex": 3
-        },
-        {
-          "question": "How many times should you ideally rehearse your presentation?",
-          "options": ["a. Once", "b. Twice", "c. Three times", "d. Until you can recite it from memory"],
-          "correctIndex": 2
-        },
-        {
-          "question": "During rehearsal, you should focus on .",
-          "options": ["a. Memorizing your script", "b. Making last-minute changes", "c. Practicing your delivery", "d. All of the above"],
-          "correctIndex": 2
-        },
-        {
-          "question": "What is one benefit of rehearsing in front of an audience?",
-          "options": ["a. They can provide feedback", "b. They can distract you", "c. They can steal your ideas", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Rehearsing allows you to become more .",
-          "options": ["a. Stressed", "b. Relaxed", "c. Nervous", "d. Aggressive"],
-          "correctIndex": 1
-        },
-        {
-          "question": "When delivering a presentation, it's important to .",
-          "options": ["a. Make eye contact", "b. Read directly from your notes", "c. Talk quickly", "d. All of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "What is a good way to engage the audience during a presentation?",
-          "options": ["a. Ask questions", "b. Ignore them", "c. Speak quietly", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "How should you handle nervousness during a presentation?",
-          "options": ["a. Pretend it's not happening", "b. Take deep breaths", "c. Rush through your presentation", "d. All of the above"],
-          "correctIndex": 1
-        },
-        {
-          "question": "What is a good way to emphasize key points during a presentation?",
-          "options": ["a. Speak softly", "b. Use hand gestures", "c. Avoid eye contact", "d. None of the above"],
-          "correctIndex": 1
-        },
-        {
-          "question": "What should you do if you make a mistake during a presentation?",
-          "options": ["a. Panic", "b. Ignore it", "c. Apologize and move on", "d. All of the above"],
-          "correctIndex": 2
-        }
-      ]
+      "question": "A presentation is a form of oral communication in which a person shares factual information with an audience that is .",
+      "options": {
+        "a": "Specific",
+        "b": "Small",
+        "c": "Large",
+        "d": "Mixed"
+      }
+    },
+    {
+      "question": "A topic should be .",
+      "options": {
+        "a": "Short",
+        "b": "Lengthy",
+        "c": "Difficult",
+        "d": "Specific keywords"
+      }
+    },
+    {
+      "question": "The topic should be in page in presentation slide.",
+      "options": {
+        "a": "First",
+        "b": "Last",
+        "c": "Middle",
+        "d": "Bottom"
+      }
+    },
+    {
+      "question": "To select the content of your presentation what audience needs, you should know .",
+      "options": {
+        "a": "Your purpose",
+        "b": "The time limit",
+        "c": "Available material"
+      }
+    },
+    {
+      "question": "The of a presentation is the most crucial part",
+      "options": {
+        "a": "Beginning",
+        "b": "Punch line",
+        "c": "Final part",
+        "d": "None of the above"
+      }
+    }
+  ],
+  "Lesson 2: Planning a Presentation": [
+    {
+      "question": "The presenter acts as the .",
+      "options": {
+        "a": "delivery of the information",
+        "b": "medium of the information",
+        "c": "advocate of the information",
+        "d": "supporter of the information"
+      }
+    },
+    {
+      "question": "The three major elements of the presentation do not include .",
+      "options": {
+        "a": "An audience",
+        "b": "Specific content",
+        "c": "A presenter",
+        "d": "Visual aids"
+      }
+    },
+    {
+      "question": "Reading out a presentation is:",
+      "options": {
+        "a": "Not allowed",
+        "b": "Allowed",
+        "c": "Helpful",
+        "d": "Dull"
+      }
+    },
+    {
+      "question": "In the beginning you should give firstly .",
+      "options": {
+        "a": "your introduction",
+        "b": "summary of a topic",
+        "c": "asking irrelevant questions",
+        "d": "further information"
+      }
+    },
+    {
+      "question": "A good presenter should .",
+      "options": {
+        "a": "sequencing your idea",
+        "b": "manage the time",
+        "c": "clear all the confusion",
+        "d": "all of these"
+      }
+    }
+  ],
+  "Lesson 3: Designing a Presentation": [
+    {
+      "question": "What do we use to create a simple design template for the presentation?",
+      "options": {
+        "a": "Slide master",
+        "b": "Outlook",
+        "c": "OneNote",
+        "d": "Drive"
+      }
+    },
+    {
+      "question": "What should we use for effective presentation?",
+      "options": {
+        "a": "Limited words and key phrases",
+        "b": "Images",
+        "c": "Layouts",
+        "d": "Styles"
+      }
+    },
+    {
+      "question": "Which text is the best for the background in the presentation?",
+      "options": {
+        "a": "Light text on a dark background",
+        "b": "Dark text on light background",
+        "c": "Colorful font",
+        "d": "Black and white style"
+      }
+    },
+    {
+      "question": "Which thing maintains its impact and resolution when projected on a larger screen?",
+      "options": {
+        "a": "Image",
+        "b": "Layouts",
+        "c": "Styles",
+        "d": "Clip arts"
+      }
+    },
+    {
+      "question": "In the presentation which font style is not used?",
+      "options": {
+        "a": "Italics",
+        "b": "Bold",
+        "c": "Underline",
+        "d": "Outline"
+      }
+    }
+  ],
+  "Lesson 4: Presenting Information: Software Options": [
+    {
+      "question": " is a presentation program.",
+      "options": {
+        "a": "U- torrent",
+        "b": "Mozilla Firefox",
+        "c": "MS PowerPoint",
+        "d": "Slide Panel"
+      }
+    },
+    {
+      "question": "The slide that is used to introduce a topic and set the tone for the presentation is called the __________",
+      "options": {
+        "a": "Title Slide",
+        "b": "Bullet Slide",
+        "c": "Table Slide",
+        "d": "Graph Slide"
+      }
+    },
+    {
+      "question": "Times New Roman, Cambria, and Arial are the example of __________",
+      "options": {
+        "a": "Font face",
+        "b": "Clipart",
+        "c": "SmartArt",
+        "d": "Themes"
+      }
+    },
+    {
+      "question": "What is the default PowerPoint standard layout?",
+      "options": {
+        "a": "Blank",
+        "b": "Title Slide",
+        "c": "Title only",
+        "d": "Comparison"
+      }
+    },
+    {
+      "question": "To delete the selected text press",
+      "options": {
+        "a": "Delete",
+        "b": "Ctrl",
+        "c": "Home",
+        "d": "Alt"
+      }
+    }
+  ],
+  "Lesson 5: Reviewing and Improving a Presentation": [
+    {
+      "question": "What features should be examined while reviewing the presentation?",
+      "options": {
+        "a": "Content",
+        "b": "Design",
+        "c": "Delivery",
+        "d": "All of these"
+      }
+    },
+    {
+      "question": "How can you improve the design of a presentation?",
+      "options": {
+        "a": "Using appropriate fonts",
+        "b": "Using relevant images",
+        "c": "Using consistent layout",
+        "d": "All of the above"
+      }
+    },
+    {
+      "question": "Which of the following statements is not true about reviewing and improving a presentation?",
+      "options": {
+        "a": "Reviewing and improving a presentation is a one-time process.",
+        "b": "A presenter should practice the presentation multiple times.",
+        "c": "Feedback from others can be valuable in improving a presentation.",
+        "d": "A presenter should revise and refine the presentation based on feedback."
+      }
+    },
+    {
+      "question": "What is the main purpose of reviewing and improving a presentation?",
+      "options": {
+        "a": "To ensure that the content is accurate",
+        "b": "To make sure that the design is visually appealing",
+        "c": "To enhance the delivery of the presentation",
+        "d": "All of the above"
+      }
+    },
+    {
+      "question": "Which of the following is not a tip for improving the delivery of a presentation?",
+      "options": {
+        "a": "Maintaining eye contact with the audience",
+        "b": "Speaking slowly and clearly",
+        "c": "Reading directly from the slides",
+        "d": "Using gestures to emphasize key points"
+      }
     }
   ]
 }
