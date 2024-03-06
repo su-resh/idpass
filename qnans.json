@@ -1,159 +1,1329 @@
 {
-  "quizzes": [
-    {
-      "title": "Presentation Skills Quiz",
-      "questions": [
+    "quizzes": [
         {
-          "question": "The presenter acts as the .",
-          "options": ["a. delivery of the information", "b. medium of the information", "c. advocate of the information", "d. supporter of the information"],
-          "correctIndex": 0
-        },
-        {
-          "question": "The three major elements of the presentation do not include .",
-          "options": ["a. An audience", "b. Specific content", "c. A presenter", "d. Visual aids"],
-          "correctIndex": 2
-        },
-        {
-          "question": "Reading out a presentation is:",
-          "options": ["a. Not allowed", "b. Allowed", "c. Helpful", "d. Dull"],
-          "correctIndex": 1
-        },
-        {
-          "question": "In the beginning you should give firstly .",
-          "options": ["a. your introduction", "b. summary of a topic", "c. asking irrelevant questions", "d. further information"],
-          "correctIndex": 0
-        },
-        {
-          "question": "A good presenter should .",
-          "options": ["a. sequencing your idea", "b. manage the time", "c. clear all the confusion", "d. all of these"],
-          "correctIndex": 3
-        },
-        {
-          "question": "What do we use to create a simple design template for the presentation?",
-          "options": ["a. Slide master", "b. Outlook", "c. OneNote", "d. Drive"],
-          "correctIndex": 0
-        },
-        {
-          "question": "What should we use for effective presentation?",
-          "options": ["a. Limited words and key phrases", "b. Images", "c. Layouts", "d. Styles"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Which text is the best for the background in the presentation?",
-          "options": ["a. Light text on a dark background", "b. Dark text on light background", "c. Colorful font", "d. Black and white style"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Which thing maintains its impact and resolution when projected on a larger screen?",
-          "options": ["a. Image", "b. Layouts", "c. Styles", "d. Clip arts"],
-          "correctIndex": 0
-        },
-        {
-          "question": "What should be avoided in a presentation?",
-          "options": ["a. Multiple fonts", "b. Many styles", "c. Overcrowded slides", "d. All of these"],
-          "correctIndex": 3
-        },
-        {
-          "question": "Speaker notes are important for .",
-          "options": ["a. Remembering key points", "b. Looking professional", "c. Improving delivery", "d. All of the above"],
-          "correctIndex": 3
-        },
-        {
-          "question": "Speaker notes should contain .",
-          "options": ["a. Complete sentences", "b. Only key points", "c. Quotes from famous people", "d. Humor"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Speaker notes are especially useful for .",
-          "options": ["a. Adding extra information", "b. Reading word-for-word", "c. Making slides more colorful", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "How should speaker notes be formatted?",
-          "options": ["a. In a tiny font size", "b. As large paragraphs", "c. In bullet points or short sentences", "d. In italics"],
-          "correctIndex": 2
-        },
-        {
-          "question": "What is one way to practice using speaker notes?",
-          "options": ["a. Memorize them", "b. Read them out loud", "c. Print them on the slides", "d. None of the above"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Visual aids can help .",
-          "options": ["a. Keep the audience engaged", "b. Distract the audience", "c. Confuse the audience", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Which of the following is NOT an example of a visual aid?",
-          "options": ["a. PowerPoint slides", "b. Handouts", "c. Audio recordings", "d. Whiteboard drawings"],
-          "correctIndex": 2
-        },
-        {
-          "question": "Visual aids should be .",
-          "options": ["a. Complex and detailed", "b. Simple and clear", "c. Hidden from the audience", "d. None of the above"],
-          "correctIndex": 1
-        },
-        {
-          "question": "How many different types of visual aids are mentioned in the lesson?",
-          "options": ["a. Two", "b. Three", "c. Four", "d. Five"],
-          "correctIndex": 2
-        },
-        {
-          "question": "Visual aids can be used to .",
-          "options": ["a. Clarify complex information", "b. Add unnecessary details", "c. Confuse the audience", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Rehearsing a presentation can help with .",
-          "options": ["a. Reducing nervousness", "b. Improving timing", "c. Identifying problem areas", "d. All of the above"],
-          "correctIndex": 3
-        },
-        {
-          "question": "How many times should you ideally rehearse your presentation?",
-          "options": ["a. Once", "b. Twice", "c. Three times", "d. Until you can recite it from memory"],
-          "correctIndex": 2
-        },
-        {
-          "question": "During rehearsal, you should focus on .",
-          "options": ["a. Memorizing your script", "b. Making last-minute changes", "c. Practicing your delivery", "d. All of the above"],
-          "correctIndex": 2
-        },
-        {
-          "question": "What is one benefit of rehearsing in front of an audience?",
-          "options": ["a. They can provide feedback", "b. They can distract you", "c. They can steal your ideas", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Rehearsing allows you to become more .",
-          "options": ["a. Stressed", "b. Relaxed", "c. Nervous", "d. Aggressive"],
-          "correctIndex": 1
-        },
-        {
-          "question": "When delivering a presentation, it's important to .",
-          "options": ["a. Make eye contact", "b. Read directly from your notes", "c. Talk quickly", "d. All of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "What is a good way to engage the audience during a presentation?",
-          "options": ["a. Ask questions", "b. Ignore them", "c. Speak quietly", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "How should you handle nervousness during a presentation?",
-          "options": ["a. Pretend it's not happening", "b. Take deep breaths", "c. Rush through your presentation", "d. All of the above"],
-          "correctIndex": 1
-        },
-        {
-          "question": "What is a good way to emphasize key points during a presentation?",
-          "options": ["a. Speak softly", "b. Use hand gestures", "c. Avoid eye contact", "d. None of the above"],
-          "correctIndex": 1
-        },
-        {
-          "question": "What should you do if you make a mistake during a presentation?",
-          "options": ["a. Panic", "b. Ignore it", "c. Apologize and move on", "d. All of the above"],
-          "correctIndex": 2
+            "title": "Choosing a Presentation Topic",
+            "questions": [
+                {
+                    "question": "A presentation is a form of oral communication in which a person shares factual information with an audience that is:",
+                    "options": [
+                        "a. Specific",
+                        "b. Small",
+                        "c. Large",
+                        "d. Mixed"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "A topic should be:",
+                    "options": [
+                        "a. Short",
+                        "b. Lengthy",
+                        "c. Difficult",
+                        "d. Specific keywords"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "The topic should be in which page in the presentation slide?",
+                    "options": [
+                        "a. First",
+                        "b. Last",
+                        "c. Middle",
+                        "d. Bottom"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "To select the content of your presentation what audience needs, you should know:",
+                    "options": [
+                        "a. Your purpose",
+                        "b. The time limit",
+                        "c. Available material"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The _______ of a presentation is the most crucial part.",
+                    "options": [
+                        "a. Beginning",
+                        "b. Punch line",
+                        "c. Final part",
+                        "d. None of the above"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "The presenter acts as the:",
+                    "options": [
+                        "a. delivery of the information",
+                        "b. medium of the information",
+                        "c. advocate of the information",
+                        "d. supporter of the information"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The three major elements of the presentation do not include:",
+                    "options": [
+                        "a. An audience",
+                        "b. Specific content",
+                        "c. A presenter",
+                        "d. Visual aids"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Reading out a presentation is:",
+                    "options": [
+                        "a. Not allowed",
+                        "b. Allowed",
+                        "c. Helpful",
+                        "d. Dull"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "In the beginning you should give firstly:",
+                    "options": [
+                        "a. your introduction",
+                        "b. summary of a topic",
+                        "c. asking irrelevant questions",
+                        "d. further information"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "A good presenter should:",
+                    "options": [
+                        "a. sequencing your idea",
+                        "b. manage the time",
+                        "c. clear all the confusion",
+                        "d. all of these"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "What do we use to create a simple design template for the presentation?",
+                    "options": [
+                        "a. Slide master",
+                        "b. Outlook",
+                        "c. OneNote",
+                        "d. Drive"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "What should we use for effective presentation?",
+                    "options": [
+                        "a. Limited words and key phrases",
+                        "b. Images",
+                        "c. Layouts",
+                        "d. Styles"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Which text is the best for the background in the presentation?",
+                    "options": [
+                        "a. Light text on a dark background",
+                        "b. Dark text on light background",
+                        "c. Colorful font",
+                        "d. Black and white style"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Which thing maintains its impact and resolution when projected on a larger screen?",
+                    "options": [
+                        "a. Image",
+                        "b. Layouts",
+                        "c. Styles",
+                        "d. Clip arts"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "In the presentation which font style is not used?",
+                    "options": [
+                        "a. Italics",
+                        "b. Bold",
+                        "c. Underline",
+                        "d. Outline"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "_________ is a presentation program.",
+                    "options": [
+                        "a. U- torrent",
+                        "b. Mozilla Firefox",
+                        "c. MS PowerPoint",
+                        "d. Slide Panel"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The slide that is used to introduce a topic and set the tone for the presentation is called the __________",
+                    "options": [
+                        "a. Title Slide",
+                        "b. Bullet Slide",
+                        "c. Table Slide",
+                        "d. Graph Slide"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Times New Roman, Cambria, and Arial are the example of __________",
+                    "options": [
+                        "a. Font face",
+                        "b. Clipart",
+                        "c. SmartArt",
+                        "d. Themes"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "What is the default PowerPoint standard layout?",
+                    "options": [
+                        "a. Blank",
+                        "b. Title Slide",
+                        "c. Title only",
+                        "d. Comparison"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "To delete the selected text press",
+                    "options": [
+                        "a. Delete",
+                        "b. Ctrl",
+                        "c. Home",
+                        "d. Alt"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "What features should our presentation have?",
+                    "options": [
+                        "a. Impressive and effective",
+                        "b. Inefficient",
+                        "c. Incompetent",
+                        "d. Ordinary"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "In the presentation which things play equal roles?",
+                    "options": [
+                        "a. Content and voice",
+                        "b. Text and font",
+                        "c. Time and size",
+                        "d. Sort and indent"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "When giving a presentation in front of an audience you should do all of the following except for _?",
+                    "options": [
+                        "a. Speak loud and clear",
+                        "b. Provide a handout if needed",
+                        "c. Dress professionally",
+                        "d. Look at your screen, not the audience"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Which of the following shortcut key is used to start the slideshow?",
+                    "options": [
+                        "a. Using F5 key",
+                        "b. Using F3 key",
+                        "c. Using F1 key",
+                        "d. Using the F6 key"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "In the dialogue box which features do we find to see our slides?",
+                    "options": [
+                        "a. Slide show",
+                        "b. Print",
+                        "c. Animation",
+                        "d. Shuffle"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "We can insert __ in presentation.",
+                    "options": [
+                        "a. Image",
+                        "b. Video",
+                        "c. Audio",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Which of the following are the types of sound files?",
+                    "options": [
+                        "a. WAV files",
+                        "b. LOG files",
+                        "c. DAT files",
+                        "d. None of the above"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "What is the shortcut key to insert a hyperlink in the slide?",
+                    "options": [
+                        "a. Ctrl + H",
+                        "b. Ctrl + K",
+                        "c. Ctrl + A",
+                        "d. Not possible to insert hyperlinks"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "In a PowerPoint presentation",
+                    "options": [
+                        "a. We can insert movie clips but not the sound clips",
+                        "b. We can insert sound clips but not the movie clips",
+                        "c. Both movie clips and sound clips can be inserted",
+                        "d. Both movie clips and sound clips cannot be inserted"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "In a PowerPoint, how to add links",
+                    "options": [
+                        "a. Insert > Tables",
+                        "b. Insert > Images",
+                        "c. Insert > Illustrations",
+                        "d. Insert > Links"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "A software bug is an?",
+                    "options": [
+                        "a. Error",
+                        "b. Fault",
+                        "c. Flaw",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Which of the below-mentioned reasons do not satisfy the reason why people create a computer virus?",
+                    "options": [
+                        "a. Protection",
+                        "b. Identity theft",
+                        "c. Pranks",
+                        "d. Research purpose"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Viruses spread very fast through networks and infect:",
+                    "options": [
+                        "a. Mind",
+                        "b. Pen drives",
+                        "c. Keyboard",
+                        "d. Mouse"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Which of these are the harmful effects of viruses?",
+                    "options": [
+                        "a. Damages data files",
+                        "b. Increasing the size of files by attaching themselves to the files",
+                        "c. Slowing down the system by occupying most of the memory space",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "A computer program that copies itself to other computers across the internet is called",
+                    "options": [
+                        "a. Computer virus",
+                        "b. Worm",
+                        "c. Program Virus",
+                        "d. Trojan Horses"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "It is a computer software used to identify and remove computer viruses.",
+                    "options": [
+                        "a. Antivirus",
+                        "b. Computer virus",
+                        "c. Trojan Horses",
+                        "d. Worms"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Quick Heal, Norton, AVG, Smart Dog, Mc Affee etc. are the examples of.",
+                    "options": [
+                        "a. Antivirus",
+                        "b. Boot sector virus",
+                        "c. Worms",
+                        "d. Trojan Horses"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Antivirus software is an example of.",
+                    "options": [
+                        "a. A security utility",
+                        "b. An operating system",
+                        "c. An office suite",
+                        "d. Business software"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "You must regularly ____ your computer using an antivirus software to detect viruses.",
+                    "options": [
+                        "a. Clean",
+                        "b. Scan",
+                        "c. Wash"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "___ an infected file is the first action performed by an antivirus software.",
+                    "options": [
+                        "a. Repairing",
+                        "b. Deleting",
+                        "c. Quarantining"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Select the advantages of using social media.",
+                    "options": [
+                        "a. Communicate with friends and family across the world",
+                        "b. Share and receive feedback on your competition or fitness goals",
+                        "c. Experience celebrations and traditions from different cultures",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Which of the following examples is safe to post on a social media account?",
+                    "options": [
+                        "a. A picture of you on a beach on holiday",
+                        "b. The exact date you are leaving to go on holiday",
+                        "c. A party you are planning on having at your house",
+                        "d. None of the above"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "After a disagreement at school, a group of kids send Aakriti threatening messages on Snapchat. What should she do?",
+                    "options": [
+                        "a. Block them from his page",
+                        "b. Keep the emails and comments he receives",
+                        "c. Tell his parents or a trusted adult",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "When you get a friend or follow request what should you consider?",
+                    "options": [
+                        "a. Will it make me look good?",
+                        "b. Do I like them?",
+                        "c. Do I know who it is?"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "What should you not share on your social media account? (Select 2 answers)",
+                    "options": [
+                        "a. Your upcoming location",
+                        "b. Your name",
+                        "c. Personal information such as bank details",
+                        "d. Pictures of food"
+                    ],
+                    "correctIndex": [
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "question": "What type of sites is known as a friend-of-a-friend site?",
+                    "options": [
+                        "a. Chat Messenger",
+                        "b. Social networking sites",
+                        "c. Tutorial sites",
+                        "d. Chatrooms"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Strangers cannot cause much trouble if we connect to them over social media.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "When you meet people online, what should you watch out for?",
+                    "options": [
+                        "a. They have a fake profile.",
+                        "b. They ask personal questions",
+                        "c. They talk about inappropriate things",
+                        "d. They are rude"
+                    ],
+                    "correctIndex": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "question": "How can you avoid getting unwanted online friends?",
+                    "options": [
+                        "a. Have privacy settings high",
+                        "b. Limit who you can accept as a friend",
+                        "c. Avoid using public sites",
+                        "d. All of these are correct"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "If your friend asks you to share your password to use your computer for work, what should you do?",
+                    "options": [
+                        "a. Being your friend, you share the password",
+                        "b. You decline to provide",
+                        "c. You login yourself and allow him to work",
+                        "d. You create his login on your computer"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Which of the following is not an appropriate measure for securing social networking accounts?",
+                    "options": [
+                        "a. Strong passwords",
+                        "b. Link your account with a phone number",
+                        "c. Never write your password anywhere",
+                        "d. Always maintain a soft copy of all your passwords in your PC"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Which of them is a proper measure of securing social networking account?",
+                    "options": [
+                        "a. Never keep your password with any relevant names",
+                        "b. Keep written records of your passwords",
+                        "c. Keep records of your password in audio format in your personal cell-phone",
+                        "d. Passwords are kept smaller in size to remember"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Why should you be careful about what you open and download on the internet?",
+                    "options": [
+                        "a. It could be something inappropriate",
+                        "b. It could have a virus that harms your computer",
+                        "c. It could steal info from your computer",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Which of the password is more secure and strong?",
+                    "options": [
+                        "a. Abc123",
+                        "b. Password123",
+                        "c. @dm1n#32!",
+                        "d. Admin"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "If you think your computer has a virus, a good step in solving the problem would be to:",
+                    "options": [
+                        "a. Run a virus scan",
+                        "b. Reformat the hard drive",
+                        "c. Destroy the computer",
+                        "d. Do nothing"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "How should you make your Facebook account private and secure?",
+                    "options": [
+                        "a. By tagging friends always",
+                        "b. By using security applications",
+                        "c. Make a strong password",
+                        "d. Going offline intermittently"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "Which of these is not a privacy feature on Instagram?",
+                    "options": [
+                        "a. Block comments",
+                        "b. Remove a follower",
+                        "c. Public profile",
+                        "d. Stop direct messages"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "Which of these is usually not kept private on social media?",
+                    "options": [
+                        "a. Photos",
+                        "b. Invitations",
+                        "c. Username",
+                        "d. Invitation"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "What should you do if you feel uncomfortable online?",
+                    "options": [
+                        "a. Tell an adult or call a hotline about it.",
+                        "b. Use online strategies to handle the situation.",
+                        "c. Tell the other person to leave you alone.",
+                        "d. Use social media to make them stop."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "What type of things should you post online?",
+                    "options": [
+                        "a. Impersonal or after an event.",
+                        "b. Save personal for friends & family.",
+                        "c. Post personal through messaging or Snap Chat.",
+                        "d. Never post anything personal."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "What may happen if you share you photo online?",
+                    "options": [
+                        "a. Few people will see it",
+                        "b. Many people will see it",
+                        "c. No one will it",
+                        "d. Only you can see it"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "_ is a warning signal that something may be wrong.",
+                    "options": [
+                        "a. Question mark",
+                        "b. Full stop",
+                        "c. Danger sign",
+                        "d. Comma"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "What is NSPCC?",
+                    "options": [
+                        "a. A helpline",
+                        "b. A protocol",
+                        "c. A software",
+                        "d. A CD"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Everyone is not kind and there are people online who want to harm others.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "We should report for inappropriate content but not try to _.",
+                    "options": [
+                        "a. Read",
+                        "b. Reply",
+                        "c. See",
+                        "d. React"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Ideally, what characters should you use in a password to make it strong?",
+                    "options": [
+                        "a. Letters and Numbers only.",
+                        "b. Mixed Case (Upper and Lower) Characters",
+                        "c. Special Characters",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Strong passwords can be difficult to remember. What can you do to avoid forgetting them?",
+                    "options": [
+                        "a. Use mnemonics (acronyms or phrases that are easy for you to remember)",
+                        "b. Develop a password strategy",
+                        "c. Use password management software with encryption.",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Someone trying to get into your account may also try by guessing",
+                    "options": [
+                        "a. The name of your pet",
+                        "b. The name of a family member or best friend",
+                        "c. The name of your favorite book or film",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Remember me functions in web browsers or other application are unsafe and should be avoided.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "How long would it take an attacker to crack a 10-character password?",
+                    "options": [
+                        "a. Less than an hour",
+                        "b. Less than a week",
+                        "c. Less than a month",
+                        "d. It depends"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "What are the things that you should not post online?",
+                    "options": [
+                        "a. The exact details of your upcoming vacation",
+                        "b. Pictures of your credit card",
+                        "c. Fun facts about what you ve learned in school",
+                        "d. Both a and b"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "What is not an example of cyberbullying?",
+                    "options": [
+                        "a. Sending someone a mean text",
+                        "b. Bullying someone in the hallway",
+                        "c. Threatening someone in an instant message",
+                        "d. Creating embarrassing picture of your classmate and forwarding it to your friends  email addresses"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Things that you should not post online are:",
+                    "options": [
+                        "a. Fun facts about your hobbies",
+                        "b. Pictures you have drawn",
+                        "c. What you think about a book, TV program, film, or computer game",
+                        "d. Comments about religion"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "It can be to misinterpret, information online or unintentionally cause offence, especially when communicating in a different language.",
+                    "options": [
+                        "a. Hard",
+                        "b. Easy"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "A is an icon, graphics, or text that links to another file or object.",
+                    "options": [
+                        "a. Hyperlink",
+                        "b. WWW"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Aspects of our appearance such as hair color and eye color can be defined as characteristics.",
+                    "options": [
+                        "a. Mental characteristics",
+                        "b. Physical characteristics",
+                        "c. Personality characteristics",
+                        "d. Background characteristics"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Which statement is wrong in the context of personality?",
+                    "options": [
+                        "a. Personality is unique and specific",
+                        "b. Personality is a joint product of heredity and environment",
+                        "c. Personality spreads over the subconscious and unconscious behavior of a person",
+                        "d. Personality is limited only to the appearance of a person"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Our and are from the influences around us, such as our cultural heritage, our family background, and the environment we live in.",
+                    "options": [
+                        "a. Views and beliefs",
+                        "b. Views and likes",
+                        "c. Culture and traditions",
+                        "d. Both a and b"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "When we are posting online, we need to make sure that we are of other people and never mock their physical characteristics, personal choices, opinions or religious beliefs.",
+                    "options": [
+                        "a. Superior",
+                        "b. Respectful",
+                        "c. Fashionable",
+                        "d. Shy"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Characteristics of being a good digital citizen are:",
+                    "options": [
+                        "a. Treat others with respect and never do cyberbullies",
+                        "b. Protects personal information from outside forces that might cause harms",
+                        "c. Proactively limits health limits risks of technology",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "If one of your friends posted your video online without your consent, what will you do?",
+                    "options": [
+                        "a. Keep asking your friend until they take it down",
+                        "b. Post a video of them to get them back",
+                        "c. Leave it- you can't do anything else about it",
+                        "d. Speak to an adult and say why you don't like it"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "You need to create a password for a website. What should you use?",
+                    "options": [
+                        "a. A nickname that your friend calls you",
+                        "b. Your full name",
+                        "c. A random word, number, and punctuation mark",
+                        "d. Part of your name and the year you were born"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "Your friend tells you that she is talking to a boy online and she is going to meet him at the weekend. What should you do?",
+                    "options": [
+                        "a. Tell your other friend",
+                        "b. Volunteer to go with her",
+                        "c. Tell an adult straight away",
+                        "d. Let her go on her own"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "You have gone to a gaming website, and it asks you to download a link before you play. What should you do?",
+                    "options": [
+                        "a. Download it anyway",
+                        "b. Don't download it, it must be illegal",
+                        "c. Ask your friend what to do",
+                        "d. Show the link to an adult and ask them if it's safe"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Someone in your class has sent around an embarrassing photo of another classmate. What should you do with it?",
+                    "options": [
+                        "a. Save it to your phone so you can embarrass them again later",
+                        "b. Show a trust adult and explain what has happened",
+                        "c. Laugh at the photo with your friends",
+                        "d. Forward the photo onto other people"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " means to make someone believe something that is not true.",
+                    "options": [
+                        "a. Dillusion",
+                        "b. Enlightened",
+                        "c. Support",
+                        "d. Deceive"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Children should never agree to meet with someone they only know online.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Who can you share your passwords with?",
+                    "options": [
+                        "a. Your friends",
+                        "b. Your family",
+                        "c. Nobody   you should keep them yourself",
+                        "d. Your teacher"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "Who should you accept friend or chat requests from online?",
+                    "options": [
+                        "a. Anyone",
+                        "b. Someone you think you've met before",
+                        "c. A friend of a friend",
+                        "d. Only from people you definitely know"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " means to stop someone from contacting you online or seeing your social media content.",
+                    "options": [
+                        "a. Unfriend",
+                        "b. Block",
+                        "c. Mute",
+                        "d. Archive"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Inappropriate content means:",
+                    "options": [
+                        "a. Material available on internet that affects us",
+                        "b. Information that might lead that might tempt your child to dangerous behavior",
+                        "c. Both a and b",
+                        "d. None of the above"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "We have to remember to include the website or phone number for local support service.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "What should you do if you see inappropriate content online?",
+                    "options": [
+                        "a. Report the content",
+                        "b. Don't do anything",
+                        "c. Tell your parents about it and see if they can help",
+                        "d. Both a and c"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Anonymous means:",
+                    "options": [
+                        "a. Identified by name",
+                        "b. Not identified by name"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "We all should know how to take and record the date and time.",
+                    "options": [
+                        "a. Selfie",
+                        "b. Screenshot",
+                        "c. Photoshoot",
+                        "d. None of the above"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "What does online code of conduct mean?",
+                    "options": [
+                        "a. Counting the spread of illegal hate speech online",
+                        "b. Common policy of organization",
+                        "c. Set of rules",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "When we communicate online, we become a part of the community.",
+                    "options": [
+                        "a. Local",
+                        "b. Digital",
+                        "c. Real",
+                        "d. Physical"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Most social media providers now ask their users to sign up to a code of conduct.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Facebook, Twitter, YouTube and Microsoft have agreed to a code of conduct and also removing all hate speech uploaded to their websites within hours.",
+                    "options": [
+                        "a. 1 hour",
+                        "b. 10 hours",
+                        "c. 20 hours",
+                        "d. 24 hours"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Some of the online codes of conducts are:",
+                    "options": [
+                        "a. Don't comment anything on religion and culture",
+                        "b. Do not show any kind of violence",
+                        "c. Do not spread rumors online",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "What is the full form of WWW?",
+                    "options": [
+                        "a. World Wide Web",
+                        "b. World Wide Web",
+                        "c. World Write Web",
+                        "d. Welcome To Web"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " is a result displayed on the screen as a result of entering a term in a search engine.",
+                    "options": [
+                        "a. Hit",
+                        "b. Introduction",
+                        "c. Observation",
+                        "d. Conclusion"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Search engine means:",
+                    "options": [
+                        "a. A program that searches for items online",
+                        "b. A program that displays photos",
+                        "c. A program that displays sound",
+                        "d. None of the above"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "What are the advantages of using a library?",
+                    "options": [
+                        "a. You can stay focused",
+                        "b. You can use more than one book at the same time",
+                        "c. The environment of library will motivate us to study more",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Example of search engines is:",
+                    "options": [
+                        "a. Google",
+                        "b. Apple",
+                        "c. Facebook",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Search engines use to scan the internet and gather information about the web.",
+                    "options": [
+                        "a. Web crawlers",
+                        "b. Web browsers",
+                        "c. Web cameras",
+                        "d. Web search"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Browsing means:",
+                    "options": [
+                        "a. Looking at collection of data",
+                        "b. Scanning through a text or website to gain information",
+                        "c. Getting a link",
+                        "d. Seeing pictures"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " is a list that helps you to find information quickly.",
+                    "options": [
+                        "a. Content",
+                        "b. Introduction",
+                        "c. Index",
+                        "d. Terminology"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "Surfing is when you use a to follow random links on the internet just for fun.",
+                    "options": [
+                        "a. Website",
+                        "b. Search Engine",
+                        "c. WWW",
+                        "d. Hyperlinks"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "The crawlers follow any links on the web pages they visit and then add that information to the index as well.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "HTML stands for:",
+                    "options": [
+                        "a. Hyper Text Markup language",
+                        "b. Hyper Text Makeup Language",
+                        "c. Hyper Touch Markup language",
+                        "d. High Text markup language"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " is used to specify the title of a webpage.",
+                    "options": [
+                        "a. Head",
+                        "b. Title tags",
+                        "c. Body",
+                        "d. Index"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "To view source code, hold down the:",
+                    "options": [
+                        "a. CTRL key + s",
+                        "b. CTRL key + c",
+                        "c. CTRL key + z",
+                        "d. CTRL key + u"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Pages on the internet have open code for page that you can see.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "When we a webpage, we see the perfect typography and beautiful images perfectly placed on webpage.",
+                    "options": [
+                        "a. Close",
+                        "b. Open",
+                        "c. Reload",
+                        "d. Skip"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "When sending an e-mail, the line describes the contents of the message.",
+                    "options": [
+                        "a. Subject",
+                        "b. To",
+                        "c. Contents",
+                        "d. CC"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Which of the following must be contained in a URL?",
+                    "options": [
+                        "a. A protocol identifier",
+                        "b. WWW.",
+                        "c. The unique domain name",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Plagiarism is a form of cheating.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "The original creative ideas or writing from a person is:",
+                    "options": [
+                        "a. Plagiarism",
+                        "b. Intellectual property",
+                        "c. Public property",
+                        "d. None of the above"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "You can find an online plagiarism checker.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "The internet is full of .",
+                    "options": [
+                        "a. Games",
+                        "b. Information",
+                        "c. Videos",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Internet may consist of incorrect information.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "If you want to know that information from a website is correct and reliable you can check it using another website. This is called .",
+                    "options": [
+                        "a. Reliable",
+                        "b. Verification",
+                        "c. Checking",
+                        "d. Scanning"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Reliable means:",
+                    "options": [
+                        "a. Something that has good quality and can be trusted",
+                        "b. Something that you cannot trust",
+                        "c. Something that has bad quality",
+                        "d. Something that has incorrect information"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "We can identify if the sources are valid or not.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Which of the given statement is a fact?",
+                    "options": [
+                        "a. Cat is cute.",
+                        "b. Cat is an animal.",
+                        "c. Cat is angry.",
+                        "d. Cat is dirty."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Opinion is a view or belief that be proven.",
+                    "options": [
+                        "a. Can",
+                        "b. Cannot"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "The difference between fact and opinion is that:",
+                    "options": [
+                        "a. Both can be proven",
+                        "b. Both cannot be proven",
+                        "c. Fact can be proven, and opinion cannot be proven",
+                        "d. Fact cannot be proven, and opinion can be proven"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "Which of the given statement is an opinion?",
+                    "options": [
+                        "a. Sky is blue.",
+                        "b. I don't like blue sky.",
+                        "c. Water flows downwards.",
+                        "d. Cow gives milk."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Fact and opinion generally give the same meaning.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " is a law which means the creator of a piece of work receives the credit and payment for their work.",
+                    "options": [
+                        "a. Plagiarism",
+                        "b. Copyright",
+                        "c. Protocol",
+                        "d. None of the above"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "If media is protected by copyright, it means you should not:",
+                    "options": [
+                        "a. Make a copy and give it to a friend",
+                        "b. Make a copy and sell",
+                        "c. Rent it out to anyone else",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "What is the main purpose of copyright law?",
+                    "options": [
+                        "a. To protect against unauthorized duplication of the creator's new work",
+                        "b. To sell the work in high cost",
+                        "c. To show off your skills intellectually",
+                        "d. None of the above"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Which of the following is not a breach of copyright?",
+                    "options": [
+                        "a. To import copied CDs",
+                        "b. To a copy of CDs and sell it",
+                        "c. To borrow a CD from a friend and copy it to your own private use",
+                        "d. To purchase a CD and copy it to your laptop for your own private use"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Which of the following will not gain copyright protection?",
+                    "options": [
+                        "a. A DVD",
+                        "b. An unrecorded speech",
+                        "c. Written lyrics of a song",
+                        "d. A hand knitted jumper"
+                    ],
+                    "correctIndex": 3
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
