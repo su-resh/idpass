@@ -1,159 +1,618 @@
 {
-  "quizzes": [
-    {
-      "title": "Presentation Skills Quiz",
-      "questions": [
+    "quizzes": [
         {
-          "question": "The presenter acts as the .",
-          "options": ["a. delivery of the information", "b. medium of the information", "c. advocate of the information", "d. supporter of the information"],
-          "correctIndex": 0
-        },
-        {
-          "question": "The three major elements of the presentation do not include .",
-          "options": ["a. An audience", "b. Specific content", "c. A presenter", "d. Visual aids"],
-          "correctIndex": 2
-        },
-        {
-          "question": "Reading out a presentation is:",
-          "options": ["a. Not allowed", "b. Allowed", "c. Helpful", "d. Dull"],
-          "correctIndex": 1
-        },
-        {
-          "question": "In the beginning you should give firstly .",
-          "options": ["a. your introduction", "b. summary of a topic", "c. asking irrelevant questions", "d. further information"],
-          "correctIndex": 0
-        },
-        {
-          "question": "A good presenter should .",
-          "options": ["a. sequencing your idea", "b. manage the time", "c. clear all the confusion", "d. all of these"],
-          "correctIndex": 3
-        },
-        {
-          "question": "What do we use to create a simple design template for the presentation?",
-          "options": ["a. Slide master", "b. Outlook", "c. OneNote", "d. Drive"],
-          "correctIndex": 0
-        },
-        {
-          "question": "What should we use for effective presentation?",
-          "options": ["a. Limited words and key phrases", "b. Images", "c. Layouts", "d. Styles"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Which text is the best for the background in the presentation?",
-          "options": ["a. Light text on a dark background", "b. Dark text on light background", "c. Colorful font", "d. Black and white style"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Which thing maintains its impact and resolution when projected on a larger screen?",
-          "options": ["a. Image", "b. Layouts", "c. Styles", "d. Clip arts"],
-          "correctIndex": 0
-        },
-        {
-          "question": "What should be avoided in a presentation?",
-          "options": ["a. Multiple fonts", "b. Many styles", "c. Overcrowded slides", "d. All of these"],
-          "correctIndex": 3
-        },
-        {
-          "question": "Speaker notes are important for .",
-          "options": ["a. Remembering key points", "b. Looking professional", "c. Improving delivery", "d. All of the above"],
-          "correctIndex": 3
-        },
-        {
-          "question": "Speaker notes should contain .",
-          "options": ["a. Complete sentences", "b. Only key points", "c. Quotes from famous people", "d. Humor"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Speaker notes are especially useful for .",
-          "options": ["a. Adding extra information", "b. Reading word-for-word", "c. Making slides more colorful", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "How should speaker notes be formatted?",
-          "options": ["a. In a tiny font size", "b. As large paragraphs", "c. In bullet points or short sentences", "d. In italics"],
-          "correctIndex": 2
-        },
-        {
-          "question": "What is one way to practice using speaker notes?",
-          "options": ["a. Memorize them", "b. Read them out loud", "c. Print them on the slides", "d. None of the above"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Visual aids can help .",
-          "options": ["a. Keep the audience engaged", "b. Distract the audience", "c. Confuse the audience", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Which of the following is NOT an example of a visual aid?",
-          "options": ["a. PowerPoint slides", "b. Handouts", "c. Audio recordings", "d. Whiteboard drawings"],
-          "correctIndex": 2
-        },
-        {
-          "question": "Visual aids should be .",
-          "options": ["a. Complex and detailed", "b. Simple and clear", "c. Hidden from the audience", "d. None of the above"],
-          "correctIndex": 1
-        },
-        {
-          "question": "How many different types of visual aids are mentioned in the lesson?",
-          "options": ["a. Two", "b. Three", "c. Four", "d. Five"],
-          "correctIndex": 2
-        },
-        {
-          "question": "Visual aids can be used to .",
-          "options": ["a. Clarify complex information", "b. Add unnecessary details", "c. Confuse the audience", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Rehearsing a presentation can help with .",
-          "options": ["a. Reducing nervousness", "b. Improving timing", "c. Identifying problem areas", "d. All of the above"],
-          "correctIndex": 3
-        },
-        {
-          "question": "How many times should you ideally rehearse your presentation?",
-          "options": ["a. Once", "b. Twice", "c. Three times", "d. Until you can recite it from memory"],
-          "correctIndex": 2
-        },
-        {
-          "question": "During rehearsal, you should focus on .",
-          "options": ["a. Memorizing your script", "b. Making last-minute changes", "c. Practicing your delivery", "d. All of the above"],
-          "correctIndex": 2
-        },
-        {
-          "question": "What is one benefit of rehearsing in front of an audience?",
-          "options": ["a. They can provide feedback", "b. They can distract you", "c. They can steal your ideas", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Rehearsing allows you to become more .",
-          "options": ["a. Stressed", "b. Relaxed", "c. Nervous", "d. Aggressive"],
-          "correctIndex": 1
-        },
-        {
-          "question": "When delivering a presentation, it's important to .",
-          "options": ["a. Make eye contact", "b. Read directly from your notes", "c. Talk quickly", "d. All of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "What is a good way to engage the audience during a presentation?",
-          "options": ["a. Ask questions", "b. Ignore them", "c. Speak quietly", "d. None of the above"],
-          "correctIndex": 0
-        },
-        {
-          "question": "How should you handle nervousness during a presentation?",
-          "options": ["a. Pretend it's not happening", "b. Take deep breaths", "c. Rush through your presentation", "d. All of the above"],
-          "correctIndex": 1
-        },
-        {
-          "question": "What is a good way to emphasize key points during a presentation?",
-          "options": ["a. Speak softly", "b. Use hand gestures", "c. Avoid eye contact", "d. None of the above"],
-          "correctIndex": 1
-        },
-        {
-          "question": "What should you do if you make a mistake during a presentation?",
-          "options": ["a. Panic", "b. Ignore it", "c. Apologize and move on", "d. All of the above"],
-          "correctIndex": 2
+            "title": "Choosing a Presentation Topic",
+            "questions": [
+                {
+                    "question": "A presentation is a form of oral communication in which a person shares factual information with an audience that is:",
+                    "options": [
+                        "a. Specific",
+                        "b. Small",
+                        "c. Large",
+                        "d. Mixed"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "A topic should be:",
+                    "options": [
+                        "a. Short",
+                        "b. Lengthy",
+                        "c. Difficult",
+                        "d. Specific keywords"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "The topic should be in which page in the presentation slide?",
+                    "options": [
+                        "a. First",
+                        "b. Last",
+                        "c. Middle",
+                        "d. Bottom"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "To select the content of your presentation what audience needs, you should know:",
+                    "options": [
+                        "a. Your purpose",
+                        "b. The time limit",
+                        "c. Available material"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The _______ of a presentation is the most crucial part.",
+                    "options": [
+                        "a. Beginning",
+                        "b. Punch line",
+                        "c. Final part",
+                        "d. None of the above"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "The presenter acts as the:",
+                    "options": [
+                        "a. delivery of the information",
+                        "b. medium of the information",
+                        "c. advocate of the information",
+                        "d. supporter of the information"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The three major elements of the presentation do not include:",
+                    "options": [
+                        "a. An audience",
+                        "b. Specific content",
+                        "c. A presenter",
+                        "d. Visual aids"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Reading out a presentation is:",
+                    "options": [
+                        "a. Not allowed",
+                        "b. Allowed",
+                        "c. Helpful",
+                        "d. Dull"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "In the beginning you should give firstly:",
+                    "options": [
+                        "a. your introduction",
+                        "b. summary of a topic",
+                        "c. asking irrelevant questions",
+                        "d. further information"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "A good presenter should:",
+                    "options": [
+                        "a. sequencing your idea",
+                        "b. manage the time",
+                        "c. clear all the confusion",
+                        "d. all of these"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "What do we use to create a simple design template for the presentation?",
+                    "options": [
+                        "a. Slide master",
+                        "b. Outlook",
+                        "c. OneNote",
+                        "d. Drive"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "What should we use for effective presentation?",
+                    "options": [
+                        "a. Limited words and key phrases",
+                        "b. Images",
+                        "c. Layouts",
+                        "d. Styles"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Which text is the best for the background in the presentation?",
+                    "options": [
+                        "a. Light text on a dark background",
+                        "b. Dark text on light background",
+                        "c. Colorful font",
+                        "d. Black and white style"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Which thing maintains its impact and resolution when projected on a larger screen?",
+                    "options": [
+                        "a. Image",
+                        "b. Layouts",
+                        "c. Styles",
+                        "d. Clip arts"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "In the presentation which font style is not used?",
+                    "options": [
+                        "a. Italics",
+                        "b. Bold",
+                        "c. Underline",
+                        "d. Outline"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "_________ is a presentation program.",
+                    "options": [
+                        "a. U- torrent",
+                        "b. Mozilla Firefox",
+                        "c. MS PowerPoint",
+                        "d. Slide Panel"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The slide that is used to introduce a topic and set the tone for the presentation is called the __________",
+                    "options": [
+                        "a. Title Slide",
+                        "b. Bullet Slide",
+                        "c. Table Slide",
+                        "d. Graph Slide"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Times New Roman, Cambria, and Arial are the example of __________",
+                    "options": [
+                        "a. Font face",
+                        "b. Clipart",
+                        "c. SmartArt",
+                        "d. Themes"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "What is the default PowerPoint standard layout?",
+                    "options": [
+                        "a. Blank",
+                        "b. Title Slide",
+                        "c. Title only",
+                        "d. Comparison"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "To delete the selected text press",
+                    "options": [
+                        "a. Delete",
+                        "b. Ctrl",
+                        "c. Home",
+                        "d. Alt"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "What features should our presentation have?",
+                    "options": [
+                        "a. Impressive and effective",
+                        "b. Inefficient",
+                        "c. Incompetent",
+                        "d. Ordinary"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "In the presentation which things play equal roles?",
+                    "options": [
+                        "a. Content and voice",
+                        "b. Text and font",
+                        "c. Time and size",
+                        "d. Sort and indent"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "When giving a presentation in front of an audience you should do all of the following except for _?",
+                    "options": [
+                        "a. Speak loud and clear",
+                        "b. Provide a handout if needed",
+                        "c. Dress professionally",
+                        "d. Look at your screen, not the audience"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Which of the following shortcut key is used to start the slideshow?",
+                    "options": [
+                        "a. Using F5 key",
+                        "b. Using F3 key",
+                        "c. Using F1 key",
+                        "d. Using the F6 key"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "In the dialogue box which features do we find to see our slides?",
+                    "options": [
+                        "a. Slide show",
+                        "b. Print",
+                        "c. Animation",
+                        "d. Shuffle"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "We can insert __ in presentation.",
+                    "options": [
+                        "a. Image",
+                        "b. Video",
+                        "c. Audio",
+                        "d. All of the above"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Which of the following are the types of sound files?",
+                    "options": [
+                        "a. WAV files",
+                        "b. LOG files",
+                        "c. DAT files",
+                        "d. None of the above"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "What is the shortcut key to insert a hyperlink in the slide?",
+                    "options": [
+                        "a. Ctrl + H",
+                        "b. Ctrl + K",
+                        "c. Ctrl + A",
+                        "d. Not possible to insert hyperlinks"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "In a PowerPoint presentation",
+                    "options": [
+                        "a. We can insert movie clips but not the sound clips",
+                        "b. We can insert sound clips but not the movie clips",
+                        "c. Both movie clips and sound clips can be inserted",
+                        "d. Both movie clips and sound clips cannot be inserted"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "In a PowerPoint, how to add links",
+                    "options": [
+                        "a. Insert > Tables",
+                        "b. Insert > Images",
+                        "c. Insert > Illustrations",
+                        "d. Insert > Links"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "title": "Using Technology Safely: Computer Bugs",
+                    "questions": [
+                        {
+                            "question": "A software bug is an?",
+                            "options": [
+                                "a. Error",
+                                "b. Fault",
+                                "c. Flaw",
+                                "d. All of the above"
+                            ],
+                            "correctIndex": 3
+                        },
+                        {
+                            "question": "Which of the below-mentioned reasons do not satisfy the reason why people create a computer virus?",
+                            "options": [
+                                "a. Protection",
+                                "b. Identity theft",
+                                "c. Pranks",
+                                "d. Research purpose"
+                            ],
+                            "correctIndex": 0
+                        },
+                        {
+                            "question": "Viruses spread very fast through networks and infect:",
+                            "options": [
+                                "a. Mind",
+                                "b. Pen drives",
+                                "c. Keyboard",
+                                "d. Mouse"
+                            ],
+                            "correctIndex": 1
+                        },
+                        {
+                            "question": "Which of these are the harmful effects of viruses?",
+                            "options": [
+                                "a. Damages data files",
+                                "b. Increasing the size of files by attaching themselves to the files",
+                                "c. Slowing down the system by occupying most of the memory space",
+                                "d. All of the above"
+                            ],
+                            "correctIndex": 3
+                        },
+                        {
+                            "question": "A computer program that copies itself to other computers across the internet is called",
+                            "options": [
+                                "a. Computer virus",
+                                "b. Worm",
+                                "c. Program Virus",
+                                "d. Trojan Horses"
+                            ],
+                            "correctIndex": 1
+                        }
+                    ]
+                },
+                {
+                    "question": "It is a computer software used to identify and remove computer viruses.",
+                    "options": [
+                        "a. Antivirus",
+                        "b. Computer virus",
+                        "c. Trojan Horses",
+                        "d. Worms"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Quick Heal, Norton, AVG, Smart Dog, Mc Affee etc. are the examples of.",
+                    "options": [
+                        "a. Antivirus",
+                        "b. Boot sector virus",
+                        "c. Worms",
+                        "d. Trojan Horses"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Antivirus software is an example of.",
+                    "options": [
+                        "a. A security utility",
+                        "b. An operating system",
+                        "c. An office suite",
+                        "d. Business software"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "You must regularly ____ your computer using an antivirus software to detect viruses.",
+                    "options": [
+                        "a. Clean",
+                        "b. Scan",
+                        "c. Wash"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "___ an infected file is the first action performed by an antivirus software.",
+                    "options": [
+                        "a. Repairing",
+                        "b. Deleting",
+                        "c. Quarantining"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "title": "Using Technology Safely: Communication",
+                    "questions": [
+                        {
+                            "question": "Select the advantages of using social media.",
+                            "options": [
+                                "a. Communicate with friends and family across the world",
+                                "b. Share and receive feedback on your competition or fitness goals",
+                                "c. Experience celebrations and traditions from different cultures",
+                                "d. All of the above"
+                            ],
+                            "correctIndex": 3
+                        },
+                        {
+                            "question": "Which of the following examples is safe to post on a social media account?",
+                            "options": [
+                                "a. A picture of you on a beach on holiday",
+                                "b. The exact date you are leaving to go on holiday",
+                                "c. A party you are planning on having at your house",
+                                "d. None of the above"
+                            ],
+                            "correctIndex": 0
+                        },
+                        {
+                            "question": "After a disagreement at school, a group of kids send Aakriti threatening messages on Snapchat. What should she do?",
+                            "options": [
+                                "a. Block them from his page",
+                                "b. Keep the emails and comments he receives",
+                                "c. Tell his parents or a trusted adult",
+                                "d. All of the above"
+                            ],
+                            "correctIndex": 3
+                        },
+                        {
+                            "question": "When you get a friend or follow request what should you consider?",
+                            "options": [
+                                "a. Will it make me look good?",
+                                "b. Do I like them?",
+                                "c. Do I know who it is?"
+                            ],
+                            "correctIndex": 2
+                        },
+                        {
+                            "question": "What should you not share on your social media account? (Select 2 answers)",
+                            "options": [
+                                "a. Your upcoming location",
+                                "b. Your name",
+                                "c. Personal information such as bank details",
+                                "d. Pictures of food"
+                            ],
+                            "correctIndex": [
+                                0,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "question": "What type of sites is known as a friend-of-a-friend site?",
+                    "options": [
+                        "a. Chat Messenger",
+                        "b. Social networking sites",
+                        "c. Tutorial sites",
+                        "d. Chatrooms"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Strangers cannot cause much trouble if we connect to them over social media.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "When you meet people online, what should you watch out for?",
+                    "options": [
+                        "a. They have a fake profile.",
+                        "b. They ask personal questions",
+                        "c. They talk about inappropriate things",
+                        "d. They are rude"
+                    ],
+                    "correctIndex": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "question": "How can you avoid getting unwanted online friends?",
+                    "options": [
+                        "a. Have privacy settings high",
+                        "b. Limit who you can accept as a friend",
+                        "c. Avoid using public sites",
+                        "d. All of these are correct"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "If your friend asks you to share your password to use your computer for work, what should you do?",
+                    "options": [
+                        "a. Being your friend, you share the password",
+                        "b. You decline to provide",
+                        "c. You login yourself and allow him to work",
+                        "d. You create his login on your computer"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Keeping the password by the name of your pet is a good choice.",
+                    "options": [
+                        "a. True",
+                        "b. False"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Increase your security for social media account by always _ as you step away from the system.",
+                    "options": [
+                        "a. Signing in",
+                        "b. Signing out",
+                        "c. Logging out",
+                        "d. Logging in"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "How is geo location, or geo tagging, a risk?",
+                    "options": [
+                        "a. It identifies your location.",
+                        "b. It can help you find your phone",
+                        "c. It gives information about the picture.",
+                        "d. It lets your family or law enforcement find you."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "If you have a strong password, can your online account be at risk? (Choose the best answer.)",
+                    "options": [
+                        "a. Yes, anything online has risk.",
+                        "b. No, not if you use popular, safe sites.",
+                        "c. Yes, because the site can be hacked.",
+                        "d. Yes, if you have the site save your password."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "You get a new email saying you Won Rs. 1,00,000 lotteries in your inbox, would you open it.?",
+                    "options": [
+                        "a. Open and read the email",
+                        "b. No, I ignore email and delete from inbox",
+                        "c. I'll keep it for future action"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "_ is a popular tool to block social-media websites to track your browsing activities.",
+                    "options": [
+                        "a. Fader",
+                        "b. Blur",
+                        "c. Social-Media Blocker",
+                        "d. Ad-blocker"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Try to keep your passwords without meaning so that attack becomes almost impossible to perform successfully.",
+                    "options": [
+                        "a. Social engineering",
+                        "b. Phishing",
+                        "c. Password guessing",
+                        "d. Brute force"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Part of the social media sites are the various games & 3rd party applications which helps to get access to your data.",
+                    "options": [
+                        "a. Ethical hackers",
+                        "b. Penetration testers",
+                        "c. Security auditors",
+                        "d. Cyber-criminals"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "What technology is concerned with social media privacy?",
+                    "options": [
+                        "a. Data science",
+                        "b. Ethical hacking",
+                        "c. Cyber Security",
+                        "d. Database management"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "How can cyberbullying be caused by social networking?",
+                    "options": [
+                        "a. It spreads quickly.",
+                        "b. Teens participate more because they feel 'safe' online.",
+                        "c. It's really about peer pressure.",
+                        "d. They aren't related"
+                    ],
+                    "correctIndex": 0
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
