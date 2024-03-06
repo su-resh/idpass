@@ -1,256 +1,59 @@
 {
-  "questions": [
+  "quizzes": [
     {
-      "lesson": "Lesson 1: Choosing a Presentation Topic",
-      "question": "A presentation is a form of oral communication in which a person shares factual information with an audience that is .",
-      "options": ["a. Specific", "b. Small", "c. Large", "d. Mixed"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 1: Choosing a Presentation Topic",
-      "question": "A topic should be .",
-      "options": ["a. Short", "b. Lengthy", "c. Difficult", "d. Specific keywords"],
-      "answer": 3
-    },
-    {
-      "lesson": "Lesson 1: Choosing a Presentation Topic",
-      "question": "The topic should be in page in presentation slide.",
-      "options": ["a. First", "b. Last", "c. Middle", "d. Bottom"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 1: Choosing a Presentation Topic",
-      "question": "To select the content of your presentation what audience needs, you should know .",
-      "options": ["a. Your purpose", "b. The time limit", "c. Available material"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 1: Choosing a Presentation Topic",
-      "question": "The of a presentation is the most crucial part",
-      "options": ["a. Beginning", "b. Punch line", "c. Final part", "d. None of the above"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 1: Choosing a Presentation Topic",
-      "question": "",
-      "options": [],
-      "answer": null
-    },
-    {
-      "lesson": "Lesson 2: Planning a Presentation",
-      "question": "The presenter acts as the .",
-      "options": ["a. delivery of the information", "b. medium of the information", "c. advocate of the information", "d. supporter of the information"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 2: Planning a Presentation",
-      "question": "The three major elements of the presentation do not include .",
-      "options": ["a. An audience", "b. Specific content", "c. A presenter", "d. Visual aids"],
-      "answer": 2
-    },
-    {
-      "lesson": "Lesson 2: Planning a Presentation",
-      "question": "Reading out a presentation is:",
-      "options": ["a. Not allowed", "b. Allowed", "c. Helpful", "d. Dull"],
-      "answer": 1
-    },
-    {
-      "lesson": "Lesson 2: Planning a Presentation",
-      "question": "In the beginning you should give firstly .",
-      "options": ["a. your introduction", "b. summary of a topic", "c. asking irrelevant questions", "d. further information"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 2: Planning a Presentation",
-      "question": "A good presenter should .",
-      "options": ["a. sequencing your idea", "b. manage the time", "c. clear all the confusion", "d. all of these"],
-      "answer": 3
-    },
-    {
-      "lesson": "Lesson 2: Planning a Presentation",
-      "question": "",
-      "options": [],
-      "answer": null
-    },
-    {
-      "lesson": "Lesson 3: Designing a Presentation",
-      "question": "What do we use to create a simple design template for the presentation?",
-      "options": ["a. Slide master", "b. Outlook", "c. OneNote", "d. Drive"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 3: Designing a Presentation",
-      "question": "What should we use for effective presentation?",
-      "options": ["a. Limited words and key phrases", "b. Images", "c. Layouts", "d. Styles"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 3: Designing a Presentation",
-      "question": "Which text is the best for the background in the presentation?",
-      "options": ["a. Light text on a dark background", "b. Dark text on light background", "c. Colorful font", "d. Black and white style"],
-      "answer": 1
-    },
-    {
-      "lesson": "Lesson 3: Designing a Presentation",
-      "question": "Which thing maintains its impact and resolution when projected on a larger screen?",
-      "options": ["a. Image", "b. Layouts", "c. Styles", "d. Clip arts"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 3: Designing a Presentation",
-      "question": "What should be avoided in a presentation?",
-      "options": ["a. Multiple fonts", "b. Many styles", "c. Overcrowded slides", "d. All of these"],
-      "answer": 3
-    },
-    {
-      "lesson": "Lesson 3: Designing a Presentation",
-      "question": "",
-      "options": [],
-      "answer": null
-    },
-    {
-      "lesson": "Lesson 4: Preparing Speaker Notes",
-      "question": "Speaker notes are important for .",
-      "options": ["a. Remembering key points", "b. Looking professional", "c. Improving delivery", "d. All of the above"],
-      "answer": 3
-    },
-    {
-      "lesson": "Lesson 4: Preparing Speaker Notes",
-      "question": "Speaker notes should contain .",
-      "options": ["a. Complete sentences", "b. Only key points", "c. Quotes from famous people", "d. Humor"],
-      "answer": 1
-    },
-    {
-      "lesson": "Lesson 4: Preparing Speaker Notes",
-      "question": "Speaker notes are especially useful for .",
-      "options": ["a. Adding extra information", "b. Reading word-for-word", "c. Making slides more colorful", "d. None of the above"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 4: Preparing Speaker Notes",
-      "question": "How should speaker notes be formatted?",
-      "options": ["a. In a tiny font size", "b. As large paragraphs", "c. In bullet points or short sentences", "d. In italics"],
-      "answer": 2
-    },
-    {
-      "lesson": "Lesson 4: Preparing Speaker Notes",
-      "question": "What is one way to practice using speaker notes?",
-      "options": ["a. Memorize them", "b. Read them out loud", "c. Print them on the slides", "d. None of the above"],
-      "answer": 1
-    },
-    {
-      "lesson": "Lesson 4: Preparing Speaker Notes",
-      "question": "",
-      "options": [],
-      "answer": null
-    },
-    {
-      "lesson": "Lesson 5: Using Visual Aids",
-      "question": "Visual aids can help .",
-      "options": ["a. Keep the audience engaged", "b. Distract the audience", "c. Confuse the audience", "d. None of the above"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 5: Using Visual Aids",
-      "question": "Which of the following is NOT an example of a visual aid?",
-      "options": ["a. PowerPoint slides", "b. Handouts", "c. Audio recordings", "d. Whiteboard drawings"],
-      "answer": 2
-    },
-    {
-      "lesson": "Lesson 5: Using Visual Aids",
-      "question": "Visual aids should be .",
-      "options": ["a. Complex and detailed", "b. Simple and clear", "c. Hidden from the audience", "d. None of the above"],
-      "answer": 1
-    },
-    {
-      "lesson": "Lesson 5: Using Visual Aids",
-      "question": "How many different types of visual aids are mentioned in the lesson?",
-      "options": ["a. Two", "b. Three", "c. Four", "d. Five"],
-      "answer": 2
-    },
-    {
-      "lesson": "Lesson 5: Using Visual Aids",
-      "question": "Visual aids can be used to .",
-      "options": ["a. Clarify complex information", "b. Add unnecessary details", "c. Confuse the audience", "d. None of the above"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 5: Using Visual Aids",
-      "question": "",
-      "options": [],
-      "answer": null
-    },
-    {
-      "lesson": "Lesson 6: Rehearsing the Presentation",
-      "question": "Rehearsing a presentation can help with .",
-      "options": ["a. Reducing nervousness", "b. Improving timing", "c. Identifying problem areas", "d. All of the above"],
-      "answer": 3
-    },
-    {
-      "lesson": "Lesson 6: Rehearsing the Presentation",
-      "question": "How many times should you ideally rehearse your presentation?",
-      "options": ["a. Once", "b. Twice", "c. Three times", "d. Until you can recite it from memory"],
-      "answer": 2
-    },
-    {
-      "lesson": "Lesson 6: Rehearsing the Presentation",
-      "question": "During rehearsal, you should focus on .",
-      "options": ["a. Memorizing your script", "b. Making last-minute changes", "c. Practicing your delivery", "d. All of the above"],
-      "answer": 2
-    },
-    {
-      "lesson": "Lesson 6: Rehearsing the Presentation",
-      "question": "What is one benefit of rehearsing in front of an audience?",
-      "options": ["a. They can provide feedback", "b. They can distract you", "c. They can steal your ideas", "d. None of the above"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 6: Rehearsing the Presentation",
-      "question": "Rehearsing allows you to become more .",
-      "options": ["a. Stressed", "b. Relaxed", "c. Nervous", "d. Aggressive"],
-      "answer": 1
-    },
-    {
-      "lesson": "Lesson 6: Rehearsing the Presentation",
-      "question": "",
-      "options": [],
-      "answer": null
-    },
-    {
-      "lesson": "Lesson 7: Delivering the Presentation",
-      "question": "When delivering a presentation, it's important to .",
-      "options": ["a. Make eye contact", "b. Read directly from your notes", "c. Talk quickly", "d. All of the above"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 7: Delivering the Presentation",
-      "question": "What is a good way to engage the audience during a presentation?",
-      "options": ["a. Ask questions", "b. Ignore them", "c. Speak quietly", "d. None of the above"],
-      "answer": 0
-    },
-    {
-      "lesson": "Lesson 7: Delivering the Presentation",
-      "question": "How should you handle nervousness during a presentation?",
-      "options": ["a. Pretend it's not happening", "b. Take deep breaths", "c. Rush through your presentation", "d. All of the above"],
-      "answer": 1
-    },
-    {
-      "lesson": "Lesson 7: Delivering the Presentation",
-      "question": "What is a good way to emphasize key points during a presentation?",
-      "options": ["a. Speak softly", "b. Use hand gestures", "c. Avoid eye contact", "d. None of the above"],
-      "answer": 1
-    },
-    {
-      "lesson": "Lesson 7: Delivering the Presentation",
-      "question": "What should you do if you make a mistake during a presentation?",
-      "options": ["a. Panic", "b. Ignore it", "c. Apologize and move on", "d. All of the above"],
-      "answer": 2
-    },
-    {
-      "lesson": "Lesson 7: Delivering the Presentation",
-      "question": "",
-      "options": [],
-      "answer": null
+      "title": "Professional Health Professional Quiz",
+      "questions": [
+        {
+          "question": "What is the recommended daily intake of Vitamin D for adults aged 19-70?",
+          "options": ["400 IU", "600 IU", "800 IU", "1000 IU"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Which of the following is NOT a symptom of Type 2 diabetes?",
+          "options": ["Increased thirst", "Unexplained weight loss", "Blurred vision", "Frequent urination"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What is the normal range for blood pressure in adults?",
+          "options": ["120/80 mmHg", "140/90 mmHg", "100/60 mmHg", "160/100 mmHg"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Which hormone is responsible for regulating blood sugar levels in the body?",
+          "options": ["Insulin", "Glucagon", "Estrogen", "Testosterone"],
+          "correctIndex": 0
+        },
+        {
+          "question": "What is the primary function of the kidneys in the human body?",
+          "options": ["Regulation of body temperature", "Production of red blood cells", "Filtration of blood and waste removal", "Digestion of food"],
+          "correctIndex": 2
+        },
+        {
+          "question": "What is the term used to describe the inflammation of the liver?",
+          "options": ["Cirrhosis", "Hepatitis", "Pancreatitis", "Cholecystitis"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Which of the following is a symptom of anaphylaxis?",
+          "options": ["Rash", "Hypotension", "Headache", "Fatigue"],
+          "correctIndex": 0
+        },
+        {
+          "question": "What is the recommended amount of daily fiber intake for adults?",
+          "options": ["10 grams", "20 grams", "30 grams", "40 grams"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Which of the following is NOT a risk factor for cardiovascular disease?",
+          "options": ["High blood pressure", "Regular exercise", "Smoking", "High cholesterol levels"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What is the first line of treatment for someone experiencing an acute asthma attack?",
+          "options": ["Inhalation of a bronchodilator", "Administering oxygen therapy", "Performing chest compressions", "Placing the person in a supine position"],
+          "correctIndex": 0
+        }
+      ]
     }
   ]
 }
